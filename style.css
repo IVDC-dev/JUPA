@@ -8,7 +8,7 @@
 
 @media (max-width: 600px) {
     #imagen {
-        height: 150px; /* Más achatada en pantallas pequeñas */
+        height: 500px; /* Más achatada en pantallas pequeñas */
     }
 }
 
@@ -68,3 +68,4 @@ hr {
     margin: 24px 0;
 
 }
+
