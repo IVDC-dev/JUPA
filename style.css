@@ -38,6 +38,7 @@ section {
     padding: 24px;
     margin-bottom: 32px;
     box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    text-shadow: 5px 10px 3px black;
 }
 
 h1, h2 {
@@ -66,4 +67,5 @@ hr {
     border: none;
     border-top: 1px solid #444;
     margin: 24px 0;
+
 }
